@@ -1,3 +1,7 @@
+ dbms
+https://ducslectures.blogspot.com/2015/04/all-database-system-practical-queries.html
+
+
 # R-programming
 practical work
 
